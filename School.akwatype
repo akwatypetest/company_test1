@@ -1,4 +1,4 @@
-# comment
+# Wed Mar 06 07:36:11 CET 2019
 type School {
     name:String
 }
