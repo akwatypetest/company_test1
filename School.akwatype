@@ -1,3 +1,4 @@
+# comment
 type School {
     name:String
 }
