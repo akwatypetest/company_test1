@@ -1,4 +1,4 @@
-# Tue Nov 05 07:23:52 CET 2019
+# Sun Nov 10 04:37:19 CET 2019
 type School {
     name:String
 }
