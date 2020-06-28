@@ -1,4 +1,4 @@
-# Tue Jun 02 15:07:30 UTC 2020
+# Sun Jun 28 16:24:24 UTC 2020
 type School {
     name:String
 }
