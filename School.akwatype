@@ -1,4 +1,4 @@
-# Mon Sep 21 17:03:14 CEST 2020
+# Tue Oct 06 15:48:36 CEST 2020
 type School {
     name:String
 }
