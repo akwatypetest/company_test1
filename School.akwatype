@@ -1,4 +1,4 @@
-# Fri May 28 09:28:18 UTC 2021
+# Mon May 31 15:13:16 CEST 2021
 type School {
     name:String
 }
